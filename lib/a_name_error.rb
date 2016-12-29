@@ -1,3 +1,2 @@
-"hello world"
-
-hello_world
+class Hello_World
+  puts "hello world" end
