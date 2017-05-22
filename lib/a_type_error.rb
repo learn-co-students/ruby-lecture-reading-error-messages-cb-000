@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number"
+ "The loneliest number is" + 1.to_s
