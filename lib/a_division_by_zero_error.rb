@@ -1,3 +1,3 @@
-42 / 6
+puts 42 / 6
 
-42 / 0
+## invalid operation : 42 / 0
